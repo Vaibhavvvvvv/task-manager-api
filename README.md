@@ -156,7 +156,7 @@ Steps to use:
 
 ## 1. Clone Repository
 
-git clone <your-repository-link>
+git clone <https://github.com/Vaibhavvvvvv/task-manager-api>
 cd task-manager-api
 
 ## 2. Create Virtual Environment
@@ -225,4 +225,4 @@ task-manager-api/
 # Submission
 
 GitHub repository link:
-<PASTE YOUR REPO LINK HERE>
+<https://github.com/Vaibhavvvvvv/task-manager-api>
